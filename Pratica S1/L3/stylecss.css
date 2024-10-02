@@ -1,0 +1,46 @@
+figure{
+    text-align: center;
+}
+#focaccia{
+    border-radius: 3px;
+}
+#logo{
+    margin-top: 30px;
+    background-color: #d5d5221a;
+    border-top: 1px solid black;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+}
+#firstp{
+    padding-left: 265px;
+    width: 730px;
+}
+.credit{
+    color: rgb(194, 194, 194);
+}
+h2{
+    border-bottom: 2px solid #caf0f0;
+}
+aside{
+    border-left: 2px solid #caf0f0;
+}
+aside > p{
+    padding-left: 265px;
+    color: rgb(238, 119, 0);
+    margin: 0;
+}
+.main-articles{
+    padding-left: 265px;
+}
+footer {
+    padding-left: 265px;
+}
+#last-p{
+    padding-left: 26px;
+}
+
+
+
+
