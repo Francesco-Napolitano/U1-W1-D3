@@ -1,0 +1,9 @@
+p {
+    /* il commento in css è diverso che dal HTML */
+    background-color: aqua;
+    color: rgb(51, 76, 0);
+  }
+
+h1{
+  text-align: center;
+}
